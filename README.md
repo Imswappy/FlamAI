@@ -75,14 +75,6 @@ t\cos(30^\circ) - e^{0.03|t|}\sin(0.3t)\sin(30^\circ) + 55,\;
 \]
 
 ---
-
-## Verification Plot (optional)
-
-You can visualize the fitted curve and dataset here:  
-[Desmos visualization link](https://www.desmos.com/calculator/rfj91yrxob)
-
----
-
 ## File Outputs
 
 - `xy_data.csv` – provided dataset of \((x, y)\) points  
